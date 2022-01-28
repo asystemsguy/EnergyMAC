@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="gps_location">Download</string>
+</resources>
